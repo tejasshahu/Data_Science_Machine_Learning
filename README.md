@@ -27,12 +27,11 @@ Some of the basic methods go through and its implementation which will be helpfu
 6) learn_scikit-learn
 This file has lots of stuff all about how can we use SciKit Learn Library for Machine Learning.
 Main Things which has been covered:
-
-0. An end-to-end scikit learn workflow.
-1. Getting the data ready.
-2. Choose the right estimator/algorithm for our problem.
-3. Fit the model/algorithm and use it to make prediction on our data. 
-4. Evaluating a model.
-5. Improve a model.
-6. Save and load a trained model
-7. putting it all together!!!
+  0. An end-to-end scikit learn workflow.
+  1. Getting the data ready.
+  2. Choose the right estimator/algorithm for our problem.
+  3. Fit the model/algorithm and use it to make prediction on our data. 
+  4. Evaluating a model.
+  5. Improve a model.
+  6. Save and load a trained model
+  7. putting it all together!!!
