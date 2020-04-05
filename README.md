@@ -1,4 +1,4 @@
-This repository is all about Data Science, Machine Learning: zero to mastery course from Udemy.
+This repository is all about Data Science, Machine Learning course from scratch which I have done.
 
 I have covered and implemented basic understanding and practical implementation of all libraries and tools which is used in this project.
 
@@ -36,3 +36,7 @@ Main Things which has been covered:
 5. Improve a model.
 6. Save and load a trained model
 7. putting it all together!!!
+
+7) Sample_Projects:
+	End-to-end projects have been created
+	i) heart_disease problem (Classification problem)
