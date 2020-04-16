@@ -43,5 +43,5 @@ Unstructured Data: It includes the data which is in form of images, audio and na
 
 7) **Sample_Projects:** End-to-end project has been created for `Structured` and `Unstructured` problems:
 	
-	i) Heart Disease problem prediction (Classification problem) that patient will have heart disease or not based on trained dataset.
-	ii) Dog's breed detection by Deeplearning, Transfer Learning (Used data and resource's links are available in jupyter notebook file .ipynb which is ready to run in your Colab or environment).
+	1. Heart Disease problem prediction (Classification problem) that patient will have heart disease or not based on trained dataset.
+	2. Dog's breed detection by Deeplearning, Transfer Learning (Used data and resource's links are available in jupyter notebook file .ipynb which is ready to run in your Colab or environment).
