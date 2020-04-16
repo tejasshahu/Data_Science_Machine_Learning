@@ -37,6 +37,10 @@ Main Things which has been covered:
 6. Save and load a trained model
 7. putting it all together!!!
 
-7) Sample_Projects:
-	End-to-end projects have been created
-	i) heart_disease problem (Classification problem)
+What is Structured data vs Unstructured data?
+Structured Data: The traditional row and column structure or similar tabular style file (such as in an Excel spreadsheet or pandas DataFrame).
+Unstructured Data: It includes the data which is in form of images, audio and natural language.
+
+7) Sample_Projects: End-to-end project has been created for `Structured` and `Unstructured` problems:
+	i) Heart Disease problem prediction (Classification problem) that patient will have heart disease or not based on trained dataset.
+	ii) Dog's breed detection by Deeplearning, Transfer Learning (Used data and resource's links are available in jupyter notebook file .ipynb which is ready to run in your Colab or environment).
